@@ -21,8 +21,10 @@ class ThirdFragment : Fragment() {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
-        messageTxt.text = "세번째 프래그먼트 입니다."
+        messageTxt.text = "잘부탁드려"
 
+        
+        
     }
 
 }
